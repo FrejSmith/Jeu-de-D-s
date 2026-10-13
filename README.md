@@ -1,4 +1,4 @@
-# TP Jeu de dés en POO
+# Jeu de dés en POO
 
 Jeu de dés à deux joueurs sur 5 tours, écrit en JavaScript avec trois classes :
 
